@@ -1,0 +1,12 @@
+[
+	{
+		"_uuid": "d9ea6d8b-01f3-463d-8a76-46318ddb6e9a",
+		"_title": "title1",
+		"_description": "description1",
+		"_imageUrl": "imageUrl1",
+		"_unit": 1,
+		"_stock": 1,
+		"_pricePerUnit": 1,
+		"_category": "category1"
+	}
+]
